@@ -1,10 +1,10 @@
 # 🛵 Zomato Delivery Time Prediction
 
 ## 📌 1. Context & Problem Statement
-**Context**: Zomato is a leading tech platform in India for restaurant discovery, reviews, and online food delivery.
-**Problem Statement**: Zomato currently provides **a fixed ETA for all orders**, which doesn't reflect real-world conditions (traffic, weather, distance, etc.), 
+- **Context**: Zomato is a leading tech platform in India for restaurant discovery, reviews, and online food delivery.
+- **Problem Statement**: Zomato currently provides **a fixed ETA for all orders**, which doesn't reflect real-world conditions (traffic, weather, distance, etc.), 
 hurting customer experience. Additionally, leadership and the Operations team lack a reliable basis to evaluate delivery performance.
-**Objective**: _Build a model to predict delivery time_ under specific conditions, 
+- **Objective**: _Build a model to predict delivery time_ under specific conditions, 
 in order _to optimize customer experience_ and support _dynamic ETA notifications_ for Zomato's delivery operations.
 
 ## 🔧 2. Tools & Technical Deep Dive
