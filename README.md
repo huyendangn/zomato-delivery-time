@@ -25,7 +25,6 @@ in order _to optimize customer experience_ and support _dynamic ETA notification
 
 ### 2.4 EDA
 - Based on EDA findings, removed noisy/irrelevant features and selected 12 key features with the strongest influence on delivery time.
-![Strong key features](EDA_SelectFeatures.png)
 
 ### 2.5 Feature Engineering
 - **Encoding**: OrdinalEncoder, OneHotEncoder
