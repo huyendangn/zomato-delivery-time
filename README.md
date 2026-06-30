@@ -53,7 +53,7 @@ After tuning, the _**Random Forest**_ model achieved the best performance.
 - Allocations of shippers is not efficient
 
 ## 💡 4. Recommendations & Limitations - Next Steps
-- See in the report (Vietnamese ver): [Report](https://canva.link/b79sdp7qhusjy8i)
+- See in the report (Vietnamese ver): [Report](https://canva.link/xvezzyl42k8psb3)
 
 ## 📁 5. Dataset
 Source: [Zomato Delivery Operations Analytics Dataset – Kaggle](https://www.kaggle.com/datasets/saurabhbadole/zomato-delivery-operations-analytics-dataset)
